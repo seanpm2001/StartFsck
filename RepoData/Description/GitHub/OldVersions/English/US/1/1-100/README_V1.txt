@@ -1,0 +1,1 @@
+A utility to be installed inside a virtual machine that gives various ways to fsck the startup folder, thus the startup process. This project is malware, DO NOT RUN IT ON YOUR HOST COMPUTER, VIRTUAL MACHINES ONLY!
